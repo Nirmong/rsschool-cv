@@ -1,1 +1,1 @@
-rsschool-cv
+https://Nirmong.github.io/rsschool-cv/cv
