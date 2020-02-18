@@ -11,6 +11,7 @@
 
 - Languages: JavaScript, HMTL, CSS, C#
 - Version Control: Git
+- OS: Windows
 - Libraries: JQuery, React
 - Tools: Webpack, Gulp
 - Editors: VSCode, Sublime, WebStorm
@@ -20,9 +21,12 @@
 - 6 month work as freelance
 - 7 months working in the company
 - 12 month self education
+- 36 month education in university
 
 ### Education
 
 - Povolzhskiy State University of Telecommunications and Informatics - Bachelor. Software Engineering.
+
 ### English 
+
 A2
